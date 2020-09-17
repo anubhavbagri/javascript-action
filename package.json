@@ -1,0 +1,24 @@
+{
+  "name": "javascript-action",
+  "version": "1.0.0",
+  "description": "Trying to make my custom github action for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhavbagri/javascript-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anubhavbagri/javascript-action/issues"
+  },
+  "homepage": "https://github.com/anubhavbagri/javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.5",
+    "@actions/github": "^4.0.0"
+  }
+}
